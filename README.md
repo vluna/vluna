@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align='center'>
+  Hello there, I'm Victor!
+</h1>
 
+<blockquote>
+I am a dedicated self-starter, fullstack developer with more than 5 years of experience. I have a passion for technology, and exploring what it can do to solve today’s complex issues. 
+</blockquote>
 <!--
 **vluna/vluna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
